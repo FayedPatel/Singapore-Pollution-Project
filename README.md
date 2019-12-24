@@ -7,7 +7,7 @@ Provided is the RMD code for the project alongside the raw R code I used. Alongs
 ## Files:
 + Final Project - Final Edition.rmd 
   + R code with my overall written process
-+ Final Project - Final Edition.HTML 
++ Final Project - Final Edition.pdf
   + Output of the RMD code
 + Final Project.R
   + Raw R code
